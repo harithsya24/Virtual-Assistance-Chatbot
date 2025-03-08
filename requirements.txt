@@ -1,0 +1,5 @@
+SpeechRecognition
+pandas
+numpy
+PyAudio
+pywhatkit
